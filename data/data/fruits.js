@@ -33,4 +33,10 @@ module.exports = [
     { name: "Shadow-Shadow",      type: "Natural",  rarity: "Mythical", price: 2900000,  color: [80, 60, 120],    stock: true },
     { name: "Venom-Venom",        type: "Natural",  rarity: "Mythical", price: 3000000,  color: [120, 80, 180],   stock: true },
     { name: "Gas-Gas",            type: "Elemental", rarity: "Mythical", price: 3200000, color: [150, 100, 150],  stock: true },
-    { name: "Control
+    { name: "Control-Control",    type: "Natural",  rarity: "Mythical", price: 3300000,  color: [220, 220, 240],  stock: true },
+    { name: "Spirit-Spirit",      type: "Natural",  rarity: "Mythical", price: 3400000,  color: [150, 220, 240],  stock: true },
+    { name: "Leopard-Leopard",    type: "Beast",    rarity: "Mythical", price: 5000000,  color: [200, 180, 100],  stock: true },
+    { name: "Kitsune-Kitsune",    type: "Beast",    rarity: "Mythical", price: 8000000,  color: [255, 180, 220],  stock: true },
+    { name: "Yeti-Yeti",          type: "Beast",    rarity: "Mythical", price: 12000000, color: [200, 230, 240],  stock: true },
+    { name: "Dragon-Dragon",      type: "Beast",    rarity: "Mythical", price: 3500000,  color: [80, 100, 160],   stock: true }
+];
